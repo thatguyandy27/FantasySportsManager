@@ -1,0 +1,10 @@
+<root>
+	<child1 attribute1='attribute1Value'>
+		<grandchild1 attribute2='attribute1-1Value'>grandchild1Value</grandchild1>
+		<grandchild2 attribute2='attribute1-2Value'>grandchild2Value</grandchild2>
+	</child1>
+	<child2 attribute1='attribute1Value2'>
+		<grandchild3 attribute2='attribute2-1Value'>grandchild3Value</grandchild3>
+		<grandchild4 attribute2='attribute2-2Value'>grandchild4Value</grandchild4>
+	</child2>
+</root>
